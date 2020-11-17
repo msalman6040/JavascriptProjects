@@ -9,7 +9,8 @@ Start time:
 Adult registrants run at 9:30 am or 11:00 am.
 Early adults run at 9:30 am.
 Late adults run at 11:00 am.
-Youth registrants run at 12:30 pm (regardless of registration).*/
+Youth registrants run at 12:30 pm (regardless of registration).
+if 18, see desk*/
 let raceNumber = Math.floor(Math.random() * 1000);
 const RegisteredEarly = true;
 const age = 18;
